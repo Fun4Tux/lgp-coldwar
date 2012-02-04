@@ -1,0 +1,93 @@
+==Preview==
+<p>In der Rolle eines Journalisten stellt sich der Spieler vor dem Hintergrund des Kalten Krieges einer intriganten Verschw&ouml;rung innerhalb der Sowjetunion entgegen. Folgerichtig sind bedachtes Vorgehen und ausgefeiltes Taktieren ebenso wichtig wie der clevere Einsatz von Gegenst&auml;nden, die sich zu t&ouml;dlichen Fallen kombinieren lassen.</p>
+
+==Text==
+<p><strong><strong>Das Spiel</strong></strong></p>
+<p>Die Geschehnisse um Cold War f&uuml;hren John Rawlins ins Zentrum des Kalten Krieges. Hochburgen der sowjetischen Regierung wie etwa Lenins Mausoleum, Tschernobyl oder das ber&uuml;chtigte Gef&auml;ngnis in Ljubiljana bieten Schaupl&auml;tze f&uuml;r Nervenkitzel und spannungsgeladene Abenteuer. Ausgestattet mit variantenreichen Ausr&uuml;stungsgegenst&auml;nden entkommt der Held dem sowjetischen Sonderkommando Specnaz: T&uuml;rfallen, Zeitbomben, Landminen und R&ouml;ntgensicht erleichtern die selbstverst&auml;ndliche Pflicht, Genossen der Roten Armee die Stirn zu bieten. Dar&uuml;ber hinaus kann Rawlins Alltagsgegenst&auml;nde auf clevere Art und Weise miteinander kombinieren, um t&ouml;dliche Apparaturen zu erschaffen. Eine konsequente Interaktion mit der Spielwelt steht im Vordergrund und verschafft Spielern in Rolle des Protagonisten das Erlebnis eines freien Spielverlaufs. <br /><br /><strong>Features</strong></p>
+<ul>
+<li>Enorme Handlungsfreiheit und alternative L&ouml;sungswege in nahezu jeder Situation</li>
+<li>Zahlreiche innovative und teilweise bisher ungesehene Hilfsmittel, mit denen man gegen die &uuml;berm&auml;chtigen Gegner bestehen und diese &uuml;berlisten kann</li>
+<li>Reale Schaupl&auml;tze, die von der eigens f&uuml;r den Titel entwickelten Grafikengine atmosph&auml;risch dicht dargestellt werden</li>
+<li>Packende Story um politische Intrigen und Verschw&ouml;rungen in deren Mittelpunkt der Spieler um sein &Uuml;berleben und eine Aufkl&auml;rung k&auml;mpft</li>
+</ul>
+<ul>
+</ul>
+<p></p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/coldwar-trailer-en.ogg"></source> Ihr Browser unterst&uuml;tzt das video-Tag nicht! Dies ist eine gute Gelegenheit, einen brauchbaren <a href="http://www.mozilla-europe.org/de/firefox/">Browser zu besorgen</a>!</video></p>
+<hr />
+<p><strong><strong>Allgemeine Informationen zum Spiel</strong></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>16+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung</td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch</td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel</td>
+<td>Englisch, Deutsch, Franz&ouml;sisch, Russisch</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/coldwar/">Demo f&uuml;r Cold War</a><br /></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/coldwar/" target="_blank">Updates f&uuml;r Cold War</a></td>
+</tr>
+<tr>
+<td>Zustand</td>
+<td>fabrikneu</td>
+</tr>
+<tr>
+<td>Lieferumfang</td>
+<td>DVD und Anleitung in DVD-H&uuml;lle</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong><strong>Minimale Systemanforderungen</strong></strong><strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>1.4 GHz x86 Prozessor</td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>3D-Grafikkarte mit 128MB Ram und korrekt installierten, funktionsf&auml;higen Treibern, Unterst&uuml;tzung f&uuml;r <span>OpenGL 1.3, 4 Texture Units, Fragment- und Vertexerweiterung</span></td>
+</tr>
+<tr>
+<td>Hauptspeicher</td>
+<td>512 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>1.7 GB</td>
+</tr>
+<tr>
+<td>Soundkarte</td>
+<td>ALSA oder OSSkompatibel</td>
+</tr>
+<tr>
+<td>Laufwerk</td>
+<td>DVD-Rom</td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>

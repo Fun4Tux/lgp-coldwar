@@ -1,0 +1,92 @@
+==Preview==
+<p>Cold War follows the story of a freelance journalist who finds himself in the midst of an international conspiracy that aims to control the U.S.S.R.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>On the run and fighting for your life behind the Iron Curtain, you as freelance journalist Matt Carter, find yourself in the midst of an international conspiracy that aims to control the U.S.S.R. Twelve hours after arriving in Moscow for a routine story, you've been stripped of all possessions, beaten unconscious and thrown into the KGB's political prison. Using only recovered weapons and improvised gadgets, you must now evade or overcome elite Soviet forces to defeat the conspiracy before you are sent to a Siberian prison camp or killed.</p>
+<ul>
+<li>Utilize an array of powerful and unique gadgets including the x-ray camera to avoid traps and eliminate opponents.</li>
+<li>Strong espionage/stealth style gameplay that offers realistic enemy AI and missions that are based on real-world events.</li>
+<li>Match physical strength and wits against the powerful Russian enemy in stunning environments from the former U.S.S.R, including Chernobyl, the Mausoleum and Lubyanka, the notorious KGB prison.</li>
+<li>Evade or overcome elite Soviet forces to defeat the conspiracy that wishes to overthrow the government.</li>
+<li>Explore an interactive non-linear world: Accomplish objectives in multiple ways - find hidden paths, combine in-game elements to create weapons, or silently eliminate opponents.</li>
+</ul>
+<p></p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/coldwar-trailer-en.ogg"></source> Your browser does not support the video tag! Go and get a <a href="http://www.mozilla-europe.org/de/firefox/">good one</a>!</video></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>16+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English, German, French, Russian, Spanish (text only), Italian (text only), Polish (text only),  Czech (text only)</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/coldwar/">Demo for Cold War</a><br /></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/coldwar/" target="_blank">Updates for Cold War</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>DVD-Rom and manual in a DVD box</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>1.4 GHz x86 Processor</td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Hardware Accelerated 3D Graphics card with 64 MB video memory, supporting <span>support OpenGL 1.3, 4 Texture Units, and both fragment and vertex extentions</span></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>512 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>1.7 GB</td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>ALSA or OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>DVD-Rom</td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>
