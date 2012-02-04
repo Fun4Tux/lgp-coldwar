@@ -38,11 +38,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/coldwar/">Demo f&uuml;r Cold War</a><br /></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/coldwar/">Demo f&uuml;r Cold War</a><br /></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/coldwar/" target="_blank">Updates f&uuml;r Cold War</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/coldwar/" target="_blank">Updates f&uuml;r Cold War</a></td>
 </tr>
 <tr>
 <td>Zustand</td>
